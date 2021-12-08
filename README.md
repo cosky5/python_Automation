@@ -9,7 +9,19 @@ To setup an `environment`, the follow package is needed be installed.
 5. datetime (default)
 
 ```
-pip install request
+pip3 install request
+pip3 install beautifulsoup4
 ```
+Check `python3` and import the email & datatime.
+```
+python3
+import smtplib
+import datatime
+import email.mime
+```
+
+*Project Script*
+
+
 
 
